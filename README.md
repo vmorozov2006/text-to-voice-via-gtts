@@ -7,3 +7,5 @@ source ~/gtts/path/to/venv/bin/activate
 
 then simply 
 python3 < script.py
+
+The sound is NOT VERY NATURAL
