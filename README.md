@@ -9,3 +9,5 @@ then simply
 python3 < script.py
 
 The sound is NOT VERY NATURAL
+
+The beenefit is relative simplicity. AND IT TAKES VERY LARGE TEXT INPUTS
